@@ -1,0 +1,19 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.name-hl{
+    color: cornflowerblue;
+}
+.p1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.p1 img{
+    width: 85%;
+    margin-left: 5%; 
+}
