@@ -38,5 +38,33 @@ h1{
 }
 .dream-area{
     background-image:url(images/bf1.png);
+
+}
+.sigg{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 50%;
+    background-color: white;
+    
+}
+.ex-area{
+    background-image: url(images/bg3.png);
+    background-repeat: no-repeat;
+    background-position:top;
+    
+}
+#box{
+    border-left: 7px solid;
+    border-image: linear-gradient(#8484ee, blue) ;
+    border-image-slice: 1;
+}
+#box2{
+    border-right: 7px solid;
+    border-image: linear-gradient(#f3a81d, rgb(245, 111, 2)) ;
+    border-image-slice: 1;
+
+}
+footer p{
+    text-align: center;
     
 }
